@@ -1,0 +1,6 @@
+Difficulty: 21 Runtime: 3.1819264789283346
+Difficulty: 22 Runtime: 11.3908998436059
+Difficulty: 23 Runtime: 19.964348797291
+Difficulty: 24 Runtime: 142.3271184751163
+Difficulty: 25 Runtime: 240.6298078339006
+Difficulty: 26 Runtime: 669.232387920729
